@@ -42,11 +42,10 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Detection and Monitoring of Natural Disasters Using Multi-Modal and Multi-Sensor Remotely-Sensed Imagery (Ministry of Interior & Safety)
-        * Development of an End-to-End Deep Learning based Technique to Generate Very High Resolution Environmental Data (National Research Foundation of Korea)
-        * Establishment of Spatial Information Roadmap for Supporting the Infrastructure Construction of the Unified Korean Peninsula (National Geographic Information Institute)
-        * Solar Power Prediction using Geostationary Satellite Imagery via Deep Learning Forecast Models (SK Telecom)
-
+        * Wildfire damage assessment using multispectral satellite images
+        * Solar power forecasting using satellite images and meteorological data
+        * Development of high-quality environmental data using satellite images via deep learning-based algorithms
+        
   - title: Teaching Assistant
     company: Seoul National University (SPINS-RS Lab)
     company_url: 'https://spins.snu.ac.kr'
@@ -68,7 +67,8 @@ experience:
         Responsibilities include:
         
         * Recorded ammunition transactions and composed ammunition inventory reports using Excel
-        * After working hours, self-studied satellite and radar remote sensing and contributed to writeup on pan-sharpening image fusion research using Worldview images
+        * After working hours, self-studied satellite and radar remote sensing 
+        * Contributed to writeup on pan-sharpening image fusion research using Worldview images
         
   - title: Research Assistant (Undergraduate Intern)
     company: Seoul National University (SPINS-RS Lab)
