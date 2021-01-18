@@ -61,7 +61,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 Minho Kim is a graduate researcher in the Institute of Engineering Research at Seoul National University and is currently researching at Spatial Informatics & Systems (SPINS) Lab. His major research interests include urban remote sensing, land cover mapping, image fusion, renewable energy forecasting, and deep learning for sustainable development of cities and the environment.
