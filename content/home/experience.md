@@ -29,7 +29,8 @@ experience:
     date_start: '2021-02-01'
     date_end: ''
     description: |2-
-        * Research assistant at SPINS Lab
+        * Research assistant at SPINS Lab working on two research projects
+        * Lab manager at SPINS Lab
 
   - title: Teaching Assistant
     company: Seoul National University (SPINS-RS Lab)
