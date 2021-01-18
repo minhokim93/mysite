@@ -14,11 +14,12 @@ organizations:
   url: https://www.ioer.snu.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include remote sensing, satellite image processing, and deep learning.
+bio: I combine satellite images and geospatial data in AI-empowered models for sustainable development and smart city applications.
 
 # Interests to show in About widget
 interests:
-- Remote Sensing
+- Urban Remote Sensing
+- Computer Vision
 - Machine Learning
 - Sustainable Development
 
@@ -64,7 +65,7 @@ email: ""
 highlight_name: true
 ---
 
-I'm a graduate researcher in the Institute of Engineering Research at Seoul National University and am currently researching at [SPINS Lab](http://spins.snu.ac.kr/). My major research interests include urban remote sensing, land cover mapping, image fusion, renewable energy forecasting, and deep learning for sustainable development of cities and the environment.
+I'm a graduate researcher in the Institute of Engineering Research [(IOER)](https://ioer.snu.ac.kr/) and am currently researching at [SPINS Lab](http://spins.snu.ac.kr/). My major research interests include urban remote sensing, land cover mapping, image fusion, renewable energy forecasting, and deep learning for sustainable development of cities and the environment.
 
 I received my bachelor’s and master's degree in Civil and Environmental Engineering at [Seoul National University](https://en.snu.ac.kr/index.html), where I was fortunate to be advised by Professor [Yongil Kim](https://www.researchgate.net/profile/Yongil_Kim). For my master's thesis, I researched local climate zone classification using multispectral satellite images via multi-scale convolutional neural networks. For my bachelor's thesis, I used DInSAR on Sentinel-1 images to detect North Korea's nuclear test site.
 
