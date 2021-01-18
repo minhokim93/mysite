@@ -81,5 +81,4 @@ experience:
         
         * Analyzed ground deformations in inaccessible, remote areas using Sentinel-1 SAR images
         * Assisted with fieldwork using a ground-based hyperspectral imager to monitor crop health
-
 ---
