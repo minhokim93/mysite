@@ -27,11 +27,11 @@ interests:
 education:
   courses:
   - course: MS in Civil & Environmental Engineering
-    institution: Seoul National University
-    year: 2021
+    institution: 2019~2021, Seoul National University
+    year: 
   - course: BSc in Civil & Environmental Engineering
-    institution: Seoul National University
-    year: 2017
+    institution: 2012~2017, Seoul National University
+    year:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
