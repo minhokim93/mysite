@@ -31,28 +31,26 @@ experience:
     description: |2-
         * Research assistant at SPINS Lab
 
-  - title: Research Assistant
-    company: Seoul National University (SPINS-RS Lab)
-    company_url: 'https://spins.snu.ac.kr'
-    location: Seoul, South Korea
-    date_start: '2019-02-01'
-    date_end: '2021-02-01'
-    description: |2-
-        * Wildfire damage assessment using multispectral satellite images
-        * Solar power forecasting using satellite images and meteorological data
-        * Development of high-quality environmental data using satellite images via deep learning-based algorithms
-        
   - title: Teaching Assistant
     company: Seoul National University (SPINS-RS Lab)
     company_url: 'https://spins.snu.ac.kr'
     location: Seoul, South Korea
-    date_start: '2019-02-01'
+    date_start: '202-03-01'
     date_end: '2021-02-01'
-    description: |2-
-        Responsibilities include:
-        
+    description: |2-   
         * Graduate courses: Satellite Image Interpretation, Advanced Remote Sensing (KOMPSAT VHR imagery)
         * Undergraduate courses: Leadership for Civil Engineers, Spatial Informatics and Systems, Remote Sensing
+
+  - title: Research Assistant
+    company: Seoul National University (SPINS-RS Lab)
+    company_url: 'https://spins.snu.ac.kr'
+    location: Seoul, South Korea
+    date_start: '2019-03-01'
+    date_end: '2021-02-01'
+    description: |2-
+        * Wildfire damage assessment using multispectral satellite and Planetscope images
+        * Solar power forecasting using geostationary satellite images and meteorological data
+        * Development of high-quality environmental data using satellite images via deep learning algorithms
         
   - title: Ammunition Inspector
     company: Republic of Korea Army
@@ -60,8 +58,6 @@ experience:
     date_start: '2017-05-02'
     date_end: '2019-01-27'
     description: |2-
-        Responsibilities include:
-        
         * Recorded ammunition transactions and composed ammunition inventory reports using Excel
         * After working hours, self-studied satellite and radar remote sensing 
         * Contributed to writeup on pan-sharpening image fusion research using Worldview images
@@ -73,8 +69,6 @@ experience:
     date_start: '2016-08-01'
     date_end: '2017-02-01'
     description: |2-
-        Responsibilities include:
-        
         * Analyzed ground deformations in inaccessible, remote areas using Sentinel-1 SAR images
         * Assisted with fieldwork using a ground-based hyperspectral imager to monitor crop health
 ---
