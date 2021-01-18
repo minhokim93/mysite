@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Minho Kim
+title: **Minho Kim**
 
 # Is this the primary user of the site?
 superuser: true
@@ -8,7 +8,7 @@ superuser: true
 # Role/position/tagline
 role: Graduate Researcher
 
-# Organizations/Affiliations to show in About widget
+## Organizations/Affiliations to show in About widget
 organizations:
 - name: Institute of Engineering Research at Seoul National University
   url: https://www.ioer.snu.ac.kr/
@@ -65,7 +65,7 @@ email: ""
 highlight_name: true
 ---
 
-I'm a graduate researcher in the Institute of Engineering Research [(IOER)](https://ioer.snu.ac.kr/) and am currently researching at [SPINS Lab](http://spins.snu.ac.kr/). My major research interests include urban remote sensing, land cover mapping, image fusion, renewable energy forecasting, and deep learning for sustainable development of cities and the environment.
+I'm a **graduate researcher** in the Institute of Engineering Research [(IOER)](https://ioer.snu.ac.kr/) and am currently researching at [SPINS Lab](http://spins.snu.ac.kr/). My major research interests include urban remote sensing, land cover mapping, image fusion, renewable energy forecasting, and deep learning for sustainable development of cities and the environment.
 
 I received my bachelor’s and master's degree in Civil and Environmental Engineering at [Seoul National University](https://en.snu.ac.kr/index.html), where I was fortunate to be advised by Professor [Yongil Kim](https://www.researchgate.net/profile/Yongil_Kim). For my master's thesis, I researched local climate zone classification using multispectral satellite images via multi-scale convolutional neural networks. For my bachelor's thesis, I used DInSAR on Sentinel-1 images to detect North Korea's nuclear test site.
 
