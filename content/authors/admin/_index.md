@@ -51,7 +51,7 @@ social:
   link: https://www.researchgate.net/profile/Minho_Kim21
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/media/cv_recent.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
  - icon: cv
    icon_pack: ai
