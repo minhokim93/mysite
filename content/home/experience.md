@@ -75,7 +75,7 @@ experience:
     company_url: 'https://spins.snu.ac.kr'
     location: Seoul, South Korea
     date_start: '2016-08-01'
-    date_end: '2017-02-01
+    date_end: '2017-02-01'
     description: |2-
         Responsibilities include:
         
