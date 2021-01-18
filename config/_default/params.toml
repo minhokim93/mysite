@@ -88,19 +88,19 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-# email = "test@example.org"
+ email = "kimminho93@gmail.com"
 # phone = "888 888 88 88"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Rm. 318, Bldg. 35, 1 Gwanak-gu, Gwanak-ro", city = "Seoul", region = "Seoul", postcode = "08826", country = "South Korea", country_code = "KR"}
+address = {street = "1 Gwanak-gu, Gwanak-ro", city = "Seoul", region = "Seoul", postcode = "08826", country = "South Korea", country_code = "KR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "37.456733", longitude = "126.951915"}
 
 # Directions for visitors to locate you.
-# directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+directions = "Rm. 318, Bldg. 35"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -261,7 +261,7 @@ plugins_js  = []
   #   3: OpenStreetMap (Mapbox)
   engine = 2
   api_key = ""
-  zoom = 15
+  zoom = 17
 
 ############################
 ## Marketing
