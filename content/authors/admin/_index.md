@@ -64,8 +64,8 @@ email: ""
 highlight_name: true
 ---
 
-I'm a graduate researcher in the Institute of Engineering Research at Seoul National University. I currently research at [SPINS Lab]http://spins.snu.ac.kr/) under the supervision of Professor [Yongil Kim]https://www.researchgate.net/profile/Yongil_Kim). My major research interests include urban remote sensing, land cover mapping, image fusion, renewable energy forecasting, and deep learning for sustainable development of cities and the environment.
+I'm a graduate researcher in the Institute of Engineering Research at Seoul National University. I currently research at [SPINS Lab](http://spins.snu.ac.kr/) under the supervision of Professor [Yongil Kim](https://www.researchgate.net/profile/Yongil_Kim). My major research interests include urban remote sensing, land cover mapping, image fusion, renewable energy forecasting, and deep learning for sustainable development of cities and the environment.
 
-I received my bachelor’s and master's degree in Civil and Environmental Engineering at Seoul National University where I was fortunate to be advised by Professor Yongil Kim. For my master's thesis, I researched local climate zone classification using multispectral satellite images via multi-scale convolutional neural networks. For my bachelor's thesis, I used DInSAR on Sentinel-1 images to detect North Korea's nuclear test site.
+I received my bachelor’s and master's degree in Civil and Environmental Engineering at Seoul National University, where I was fortunate to be advised by Professor Yongil Kim. For my master's thesis, I researched local climate zone classification using multispectral satellite images via multi-scale convolutional neural networks. For my bachelor's thesis, I used DInSAR on Sentinel-1 images to detect North Korea's nuclear test site.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv_recent.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv_recent.pdf" "newtab" >}}CV{{< /staticref >}}.
