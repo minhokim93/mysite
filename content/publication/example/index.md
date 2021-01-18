@@ -36,7 +36,6 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
   preview_only: false
----
 
 title: "Histogram Matching of Sentinel-2 Spectral Information to Enhance Planetscope Imagery for Effective Wildfire Damage Assessment"
 
