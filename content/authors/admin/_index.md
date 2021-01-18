@@ -27,10 +27,10 @@ education:
   courses:
   - course: MS in Civil & Environmental Engineering
     institution: Seoul National University
-    year: 2019
+    year: 2021
   - course: BSc in Civil & Environmental Engineering
     institution: Seoul National University
-    year: 2012
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -53,9 +53,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: media/cv_recent.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -64,6 +64,8 @@ email: ""
 highlight_name: true
 ---
 
-Minho Kim is a graduate researcher in the Institute of Engineering Research at Seoul National University and is currently researching at Spatial Informatics & Systems (SPINS) Lab. His major research interests include urban remote sensing, land cover mapping, image fusion, renewable energy forecasting, and deep learning for sustainable development of cities and the environment.
+I'm a graduate researcher in the Institute of Engineering Research at Seoul National University. I currently research at [SPINS Lab]http://spins.snu.ac.kr/) under the supervision of Professor [Yongil Kim]https://www.researchgate.net/profile/Yongil_Kim). My major research interests include urban remote sensing, land cover mapping, image fusion, renewable energy forecasting, and deep learning for sustainable development of cities and the environment.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I received my bachelor’s and master's degree in Civil and Environmental Engineering at Seoul National University where I was fortunate to be advised by Professor Yongil Kim. For my master's thesis, I researched local climate zone classification using multispectral satellite images via multi-scale convolutional neural networks. For my bachelor's thesis, I used DInSAR on Sentinel-1 images to detect North Korea's nuclear test site.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv_recent.pdf" "newtab" >}}resumé{{< /staticref >}}.
