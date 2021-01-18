@@ -29,8 +29,6 @@ experience:
     date_start: '2021-02-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
         * Research assistant at SPINS Lab
 
   - title: Research Assistant
@@ -40,8 +38,6 @@ experience:
     date_start: '2019-02-01'
     date_end: '2021-02-01'
     description: |2-
-        Responsibilities include:
-        
         * Wildfire damage assessment using multispectral satellite images
         * Solar power forecasting using satellite images and meteorological data
         * Development of high-quality environmental data using satellite images via deep learning-based algorithms
