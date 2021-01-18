@@ -36,7 +36,7 @@ experience:
     company: Seoul National University (SPINS-RS Lab)
     company_url: 'https://spins.snu.ac.kr'
     location: Seoul, South Korea
-    date_start: '202-03-01'
+    date_start: '2020-03-01'
     date_end: '2021-02-01'
     description: |2-   
         * Graduate courses: Satellite Image Interpretation, Advanced Remote Sensing (KOMPSAT VHR imagery)
