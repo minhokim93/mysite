@@ -81,4 +81,12 @@ experience:
         
         * Analyzed ground deformations in inaccessible, remote areas using Sentinel-1 SAR images
         * Assisted with fieldwork using a ground-based hyperspectral imager to monitor crop health
+        
+  - title: Research Assistant (Co-op Student)
+    company: Lawson Health Research Institute (Carson Lab)
+    company_url: 'https://www.lawsonimaging.ca/imaging/user/1/profile'
+    location: London, Canada
+    date_start: '2011-09-01'
+    date_end: '2012-01-01'
+    description: Researched on photoacoustic image reconstruction of a line source using multiple regularization percentages with the addition of maximum intensity projection using Matlab
 ---
