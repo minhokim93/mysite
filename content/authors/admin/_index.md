@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Minho Kim
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,30 +10,27 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Institute of Engineering Research at Seoul National University
+  url: https://www.ioer.snu.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include remote sensing, satellite image processing, and deep learning
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Remote Sensing
+- Machine Learning
+- Sustainable Development
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
+  - course: MS in Civil and Environmental Engineering
+    institution: Seoul National University
+    year: 2019
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
