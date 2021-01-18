@@ -30,10 +30,12 @@ experience:
     date_end: ''
     description: |2-
         * Research assistant at SPINS Lab working on two research projects
+          * Detection and Monitoring of Natural Disasters Using Multi-Modal and Multi-Sensor Remotely-Sensed Imagery (Ministry of Interior & Safety)
+          * Development of an End-to-End Deep Learning based Technique to Generate Very High Resolution Environmental Data (National Research Foundation)
         * Lab manager at SPINS Lab
   - title: Teaching Assistant
     company: Seoul National University (SPINS-RS Lab)
-    company_url: 'https://spins.snu.ac.kr'
+    company_url: 'spins.snu.ac.kr'
     location: Seoul, South Korea
     date_start: '2020-03-01'
     date_end: '2021-02-01'
@@ -42,7 +44,7 @@ experience:
         * Undergraduate courses: Leadership for Civil Engineers, Spatial Informatics and Systems, Remote Sensing
   - title: Research Assistant
     company: Seoul National University (SPINS-RS Lab)
-    company_url: 'https://spins.snu.ac.kr'
+    company_url: 'spins.snu.ac.kr'
     location: Seoul, South Korea
     date_start: '2019-03-01'
     date_end: '2021-02-01'
@@ -61,11 +63,19 @@ experience:
         * Contributed to writeup on pan-sharpening image fusion research using Worldview images
   - title: Research Assistant (Undergraduate Intern)
     company: Seoul National University (SPINS-RS Lab)
-    company_url: 'https://spins.snu.ac.kr'
+    company_url: 'spins.snu.ac.kr'
     location: Seoul, South Korea
     date_start: '2016-08-01'
     date_end: '2017-02-01'
     description: |2-
         * Analyzed ground deformations in inaccessible, remote areas using Sentinel-1 SAR images
         * Assisted with fieldwork using a ground-based hyperspectral imager to monitor crop health
+  - title: Research Assistant (Co-op Student)
+    company: Lawson Health Research Institute
+    company_url: 'https://www.lawsonimaging.ca/imaging/user/1'
+    location: London, Canada
+    date_start: '2011-09-01'
+    date_end: '2012-01-01'
+    description: |2-
+        * Researched on photoacoustic image reconstruction of a line source using multiple regularization percentages with the addition of maximum intensity projection using Matlab
 ---
