@@ -20,7 +20,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *2019 IEEE PES Asia-Pacific Power and Energy Engineering Conference (APPEEC)*
-
+publication_short: 2019 IEEE PES Asia-Pacific Power and Energy Engineering Conference (Macau)
 
 abstract: Remotely-sensed satellite imagery offers crucial information on the atmosphere and the local environment, providing a broader perspective for more accurate photovoltaic (PV) power prediction. This study proposes a Deep Neural Network (DNN) framework which integrates meteorological satellite images with historical PV power output data to conduct short-term PV power prediction (2-hour ahead). For this study, Communication, Ocean, and Meteorological Satellite (COMS) was used, and the proposed model was evaluated on test sites in Yeongam and Jindo, South Korea. The proposed DNN model was able to consider the variations of atmospheric condition and successfully learn the complex meteorological patterns by using multi-temporal COMS satellite images stacked with historical PV data. The experiment on historical PV power output, compiled over three years from 2015 to 2017, confirms that the integration of multi-temporal satellite images is more accurate than using single mono-temporal satellite image in short-term PV power prediction.
 
