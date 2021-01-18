@@ -1,6 +1,6 @@
 ---
 # Display name
-title: **Minho Kim**
+title: Minho Kim
 
 # Is this the primary user of the site?
 superuser: true
@@ -69,5 +69,5 @@ I'm a **graduate researcher** in the Institute of Engineering Research [(IOER)](
 
 I received my bachelor’s and master's degree in Civil and Environmental Engineering at [Seoul National University](https://en.snu.ac.kr/index.html), where I was fortunate to be advised by Professor [Yongil Kim](https://www.researchgate.net/profile/Yongil_Kim). For my master's thesis, I researched local climate zone classification using multispectral satellite images via multi-scale convolutional neural networks. For my bachelor's thesis, I used DInSAR on Sentinel-1 images to detect North Korea's nuclear test site.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv_recent.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} **Download my** {{< staticref "media/cv_recent.pdf" "newtab" >}}**CV**{{< /staticref >}}.
 
