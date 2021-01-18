@@ -31,7 +31,7 @@ experience:
     description: |2-
         * Research assistant at SPINS Lab working on two research projects
         * Lab manager at SPINS Lab
-
+        
   - title: Teaching Assistant
     company: Seoul National University (SPINS-RS Lab)
     company_url: 'https://spins.snu.ac.kr'
