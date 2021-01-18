@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Experience
-subtitle:
+subtitle: Related research and work experience
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Graduate Researcher 
+  - title: Graduate Researcher
     company: Institute of Engineering Research
     company_url: 'https://ioer.snu.ac.kr/'
     location: Seoul, South Korea
@@ -57,7 +57,7 @@ experience:
     date_end: '2019-01-27'
     description: |2-
         * Recorded ammunition transactions and composed ammunition inventory reports using Excel
-        * After working hours, self-studied satellite and radar remote sensing 
+        * After working hours, self-studied satellite and radar remote sensing
         * Contributed to writeup on pan-sharpening image fusion research using Worldview images
   - title: Research Assistant (Undergraduate Intern)
     company: Seoul National University (SPINS-RS Lab)
