@@ -62,6 +62,7 @@ email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
 ---
 
 I'm a graduate researcher in the Institute of Engineering Research at Seoul National University. I currently research at [SPINS Lab](http://spins.snu.ac.kr/) under the supervision of Professor [Yongil Kim](https://www.researchgate.net/profile/Yongil_Kim). My major research interests include urban remote sensing, land cover mapping, image fusion, renewable energy forecasting, and deep learning for sustainable development of cities and the environment.
