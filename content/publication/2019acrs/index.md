@@ -9,7 +9,7 @@ authors:
 - Yongil Kim
 
 date: "2019-10-18T00:00:00Z"
-doi: "https://a-a-r-s.org/proceeding/ACRS2019/ThP-66.pdf"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
