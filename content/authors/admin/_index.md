@@ -53,16 +53,15 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/cv_recent.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: media/cv_recent.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: media/cv_recent.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
-
 ---
 
 I'm a graduate researcher in the Institute of Engineering Research at Seoul National University. I currently research at [SPINS Lab](http://spins.snu.ac.kr/) under the supervision of Professor [Yongil Kim](https://www.researchgate.net/profile/Yongil_Kim). My major research interests include urban remote sensing, land cover mapping, image fusion, renewable energy forecasting, and deep learning for sustainable development of cities and the environment.
