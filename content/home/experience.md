@@ -31,7 +31,6 @@ experience:
     description: |2-
         * Research assistant at SPINS Lab working on two research projects
         * Lab manager at SPINS Lab
-        
   - title: Teaching Assistant
     company: Seoul National University (SPINS-RS Lab)
     company_url: 'https://spins.snu.ac.kr'
@@ -41,7 +40,6 @@ experience:
     description: |2-   
         * Graduate courses: Satellite Image Interpretation, Advanced Remote Sensing (KOMPSAT VHR imagery)
         * Undergraduate courses: Leadership for Civil Engineers, Spatial Informatics and Systems, Remote Sensing
-        
   - title: Research Assistant
     company: Seoul National University (SPINS-RS Lab)
     company_url: 'https://spins.snu.ac.kr'
@@ -52,7 +50,6 @@ experience:
         * Wildfire damage assessment using multispectral satellite and Planetscope images
         * Solar power forecasting using geostationary satellite images and meteorological data
         * Development of high-quality environmental data using satellite images via deep learning algorithms
-        
   - title: Ammunition Inspector
     company: Republic of Korea Army
     location: Pocheon, South Korea
@@ -62,7 +59,6 @@ experience:
         * Recorded ammunition transactions and composed ammunition inventory reports using Excel
         * After working hours, self-studied satellite and radar remote sensing 
         * Contributed to writeup on pan-sharpening image fusion research using Worldview images
-        
   - title: Research Assistant (Undergraduate Intern)
     company: Seoul National University (SPINS-RS Lab)
     company_url: 'https://spins.snu.ac.kr'
