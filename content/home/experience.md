@@ -41,7 +41,7 @@ experience:
     description: |2-   
         * Graduate courses: Satellite Image Interpretation, Advanced Remote Sensing (KOMPSAT VHR imagery)
         * Undergraduate courses: Leadership for Civil Engineers, Spatial Informatics and Systems, Remote Sensing
-
+        
   - title: Research Assistant
     company: Seoul National University (SPINS-RS Lab)
     company_url: 'https://spins.snu.ac.kr'
