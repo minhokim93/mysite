@@ -8,7 +8,7 @@ authors:
 - Yongil Kim
 
 date: "2020-07-22T00:00:00Z"
-doi: "https://doi.org/10.3390/rs12152357"
+doi: "10.3390/rs12152357"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
