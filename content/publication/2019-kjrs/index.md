@@ -25,7 +25,6 @@ abstract: In abrupt fire disturbances, high quality images suitable for wildfire
 
 tags:
 - Satellite Image Processing
-
 featured: true
 
 links:
