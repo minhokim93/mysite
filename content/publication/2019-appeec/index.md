@@ -29,7 +29,7 @@ tags:
 featured: false
 
 links:
-- name: Paper
+- name: Link
   url: https://ieeexplore.ieee.org/abstract/document/8994616
 
 ---

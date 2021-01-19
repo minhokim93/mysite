@@ -29,7 +29,7 @@ tags:
 featured: false
 
 links:
-- name: Paper
+- name: Link
   url: https://arxiv.org/abs/2011.01436
 
 ---

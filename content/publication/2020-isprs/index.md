@@ -29,7 +29,7 @@ tags:
 featured: false
 
 links:
-- name: Paper
+- name: Link
   url: https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/V-3-2020/247/2020/
 
 ---

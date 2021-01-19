@@ -29,7 +29,7 @@ tags:
 featured: false
 
 links:
-- name: Paper
+- name: Link
   url: https://a-a-r-s.org/proceeding/ACRS2019/ThP-66.pdf
 
 ---

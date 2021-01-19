@@ -31,6 +31,6 @@ featured: false
 
 
 links:
-- name: Paper
+- name: Link
   url: https://www.mdpi.com/2072-4292/12/15/2357
 ---

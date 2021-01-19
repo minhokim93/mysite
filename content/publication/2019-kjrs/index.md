@@ -29,7 +29,7 @@ tags:
 featured: false
 
 links:
-- name: Paper
+- name: Link
   url: http://koreascience.kr/article/JAKO201925258774737.page
 
 ---
