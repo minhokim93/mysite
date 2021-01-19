@@ -36,6 +36,5 @@ image:
   caption: "PV power predictions"
   focal_point: ""
   preview_only: false
-  width: 100
-  height: 100
+
 ---
