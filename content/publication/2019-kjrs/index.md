@@ -1,5 +1,5 @@
 ---
-title: "Histogram matching of Sentinel-2 spectral information to enhance Planetscope imagery for effective wildfire damage assessment"
+title: "Histogram Matching of Sentinel-2 Spectral Information to Enhance Planetscope Imagery for Effective Wildfire Damage Assessment"
 authors:
 - admin
 - Minyoung Jung
@@ -26,7 +26,7 @@ abstract: In abrupt fire disturbances, high quality images suitable for wildfire
 tags:
 - Satellite Image Processing
 
-featured: false
+featured: true
 
 links:
 - name: Link

@@ -26,7 +26,7 @@ abstract: Two out of three people will be living in urban areas by 2050, as proj
 
 tags:
 - Urban Remote Sensing, Machine Learning, Satellite Image Processing
-featured: false
+featured: true
 
 links:
 - name: Link

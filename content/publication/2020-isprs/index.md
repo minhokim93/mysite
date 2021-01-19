@@ -26,7 +26,7 @@ abstract: Obtaining spatially continuous, high resolution thermal images is cruc
 
 tags:
 - Image Fusion, Satellite Image Processing
-featured: false
+featured: true
 
 links:
 - name: Link

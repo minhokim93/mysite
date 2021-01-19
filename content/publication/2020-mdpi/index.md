@@ -27,7 +27,7 @@ abstract: Meteorological satellite images provide crucial information on solar i
 
 tags:
 - Renewable Energy, Machine Learning, Satellite Image Processing
-featured: false
+featured: true
 
 
 links:

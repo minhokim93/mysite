@@ -1,5 +1,5 @@
 ---
-title: "Image fusion of spectrally nonoverlapping imagery using SPCA and MTF-based filters"
+title: "Image Fusion of Spectrally Nonoverlapping Imagery Using SPCA and MTF-based Filters"
 authors:
 - Yonghyun Kim
 - admin
