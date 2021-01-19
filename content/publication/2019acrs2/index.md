@@ -1,6 +1,6 @@
 ---
 title: "Integration of Sentinel-2 Spectral Information with High Spatial Resolution Planetscope Imagery for Wildfire Damage Assessment"
-"
+
 authors:
 - admin
 - Yongil Kim
