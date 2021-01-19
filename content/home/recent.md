@@ -11,4 +11,3 @@ weight: 30
 
 **3. Machine Learning**
 * [Research] Unsupervised image-to-image translation of satellite images in inaccessible regions using generative adversarial networks
-* [Study] Stanford CS231n
