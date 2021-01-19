@@ -33,4 +33,8 @@ links:
 - name: Link
   url: https://a-a-r-s.org/proceeding/ACRS2019/TuD2-1.pdf
 
+image:
+  caption: "Wildfire damage assessment"
+  focal_point: ""
+  preview_only: false
 ---

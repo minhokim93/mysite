@@ -33,4 +33,9 @@ featured: true
 links:
 - name: Link
   url: https://www.mdpi.com/2072-4292/12/15/2357
+
+image:
+  caption: "Short-term PV forecasting framework"
+  focal_point: ""
+  preview_only: false
 ---

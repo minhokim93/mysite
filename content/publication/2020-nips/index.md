@@ -32,4 +32,8 @@ links:
 - name: Link
   url: https://arxiv.org/abs/2011.01436
 
+image:
+  caption: "LCZ classification model and comparison of LCZ maps"
+  focal_point: ""
+  preview_only: false
 ---

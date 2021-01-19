@@ -32,4 +32,8 @@ links:
 - name: Link
   url: http://koreascience.kr/article/JAKO201925258774737.page
 
+image:
+  caption: "Wildfire damage assessment"
+  focal_point: ""
+  preview_only: false
 ---

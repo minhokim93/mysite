@@ -32,4 +32,8 @@ links:
 - name: Link
   url: https://a-a-r-s.org/proceeding/ACRS2019/ThP-66.pdf
 
+image:
+  caption: "PV power predictions"
+  focal_point: ""
+  preview_only: false
 ---

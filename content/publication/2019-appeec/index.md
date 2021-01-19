@@ -32,4 +32,8 @@ links:
 - name: Link
   url: https://ieeexplore.ieee.org/abstract/document/8994616
 
+image:
+  caption: "Deep neural network for PV forecasting"
+  focal_point: ""
+  preview_only: false
 ---

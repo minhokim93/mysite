@@ -32,4 +32,8 @@ links:
 - name: Link
   url: https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/V-3-2020/247/2020/
 
+  image:
+    caption: "Spatiotemporal fusion results of thermal Landsat 8 images"
+    focal_point: ""
+    preview_only: false
 ---

@@ -28,4 +28,8 @@ tags:
 - Satellite Image Processing, Sustainable Development
 featured: true
 
+image:
+  caption: "Atmospheric chemical transport monitoring"
+  focal_point: ""
+  preview_only: false
 ---
