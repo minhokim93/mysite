@@ -1,6 +1,6 @@
 ---
 title: "Monitoring the Catastrophic 2018 Mendocino Complex Wildfire Using the Sentinel Constellation"
-"
+
 authors:
 - admin
 - Yongil Kim
