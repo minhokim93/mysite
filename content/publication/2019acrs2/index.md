@@ -27,7 +27,7 @@ The correlation between S2 dNBR and PS dNDVI was found to be 0.9390, suggesting 
 
 tags:
 - Satellite Image Processing
-featured: true
+featured: false
 
 links:
 - name: Link
