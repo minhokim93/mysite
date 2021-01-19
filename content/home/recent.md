@@ -10,4 +10,4 @@ weight: 30
 * [Research] Local climate zone mapping using multi-scale convolutional neural networks with convolutional based attention modules (*Under Revision*)
 
 **3. Machine Learning**
-* [Research] Unsupervised image-to-image translation of satellite images in inaccessible regions using generative adversarial networks
+* [Research] Image-to-image translation of satellite images in inaccessible regions using generative adversarial networks
