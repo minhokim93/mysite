@@ -30,7 +30,7 @@ experience:
     date_end: ''
     description: |2-
         * Research assistant at SPINS Lab working on two research projects
-          * Detection and Monitoring of Natural Disasters Using Multi-Modal and Multi-Sensor Remotely-Sensed Imagery (*Ministry of Interior & Safety*)
+          * Detection and Monitoring of Natural Disasters Using Multi-Modal and Multi-Sensor Remotely-Sensed Imagery (*Ministry of Interior & Safety*) coo
           * Development of an End-to-End Deep Learning based Technique to Generate Very High Resolution Environmental Data (*National Research Foundation*)
         * Lab manager at SPINS Lab
   - title: Teaching Assistant
