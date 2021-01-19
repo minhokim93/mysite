@@ -25,7 +25,7 @@ abstract: The effects of climate change and global warming are taking a toll on 
 
 tags:
 - Satellite Image Processing, Sustainable Development
-featured: true
+featured: false
 
 image:
   caption: "Atmospheric chemical transport monitoring"

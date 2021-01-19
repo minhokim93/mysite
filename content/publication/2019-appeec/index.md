@@ -26,7 +26,7 @@ abstract: Remotely-sensed satellite imagery offers crucial information on the at
 
 tags:
 - Renewable Energy, Machine Learning, Satellite Image Processing
-featured: true
+featured: false
 
 links:
 - name: Link

@@ -26,7 +26,7 @@ abstract: Solar energy is a promising renewable energy source, but stable genera
 
 tags:
 - Renewable Energy, Machine Learning, Satellite Image Processing
-featured: true
+featured: false
 
 links:
 - name: Link
