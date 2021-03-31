@@ -26,10 +26,11 @@ experience:
     company: Institute of Engineering Research
     company_url: 'https://ioer.snu.ac.kr/'
     location: Seoul, South Korea
-    date_start: '2021-02-01'
+    date_start: '2021-03-01'
     date_end: ''
     description: |2-
-        * Research assistant at SPINS Lab working on two research projects
+        * Research assistant at SPINS Lab working on multiple research projects :
+          * Mapping Basic Spatial Information in North Korea Using Very High Resolution Satellite Images (*The Institute for Peace and Unification Studies*)
           * Detection and Monitoring of Natural Disasters Using Multi-Modal and Multi-Sensor Remotely-Sensed Imagery (*Ministry of Interior & Safety*)
           * Development of an End-to-End Deep Learning based Technique to Generate Very High Resolution Environmental Data (*National Research Foundation*)
         * Lab manager at SPINS Lab
@@ -38,19 +39,20 @@ experience:
     company_url: 'spins.snu.ac.kr'
     location: Seoul, South Korea
     date_start: '2020-03-01'
-    date_end: '2021-02-01'
+    date_end: ''
     description: |2-   
-        * Graduate courses: Satellite Image Interpretation, Advanced Remote Sensing (KOMPSAT VHR imagery)
+        * Graduate courses: Satellite Image Interpretation, Advanced Remote Sensing (KOMPSAT VHR imagery), Advanced Surveying
         * Undergraduate courses: Leadership for Civil Engineers, Spatial Informatics and Systems, Remote Sensing
   - title: Research Assistant
     company: Seoul National University (SPINS-RS Lab)
     company_url: 'spins.snu.ac.kr'
     location: Seoul, South Korea
     date_start: '2019-03-01'
-    date_end: '2021-02-01'
+    date_end: '2021-02-26'
     description: |2-
         * Wildfire damage assessment using multispectral satellite and Planetscope images
         * Solar power forecasting using geostationary satellite images and meteorological data
+        * Spatiotemporal fusion of multispectral and thermal satellite images
         * Development of high-quality environmental data using satellite images via deep learning algorithms
   - title: Ammunition Inspector
     company: Republic of Korea Army
