@@ -28,7 +28,7 @@ education:
   courses:
   - course: PhD in Landscape Architecture and Environmental Planning
     institution : 2021~, UC Berkeley
-      year:
+    year:
   - course: MS in Civil & Environmental Engineering
     institution: 2019~2021, Seoul National University
     year:
