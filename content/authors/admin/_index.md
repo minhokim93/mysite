@@ -26,9 +26,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: PhD in Landscape Architecture and Environmental Planning
+    institution : 2021~, UC Berkeley
+      year:
   - course: MS in Civil & Environmental Engineering
     institution: 2019~2021, Seoul National University
-    year: 
+    year:
   - course: BSc in Civil & Environmental Engineering
     institution: 2012~2017, Seoul National University
     year:
@@ -46,13 +49,13 @@ social:
   link: https://scholar.google.com/citations?user=VRVL4TYAAAAJ&hl=en
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/minhokim93
+  link: https://www.linkedin.com/in/minhokim93/
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Minho_Kim21
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/cv_recent.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/media/cv_recent.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
@@ -69,5 +72,6 @@ I'm a **graduate researcher** in the Institute of Engineering Research [(IOER)](
 
 I received my bachelor’s and master's degree in Civil and Environmental Engineering at [Seoul National University](https://en.snu.ac.kr/index.html), where I was fortunate to be advised by Professor [Yongil Kim](https://www.researchgate.net/profile/Yongil_Kim). For my master's thesis, I researched local climate zone classification using multispectral satellite images via multi-scale convolutional neural networks. For my bachelor's thesis, I used DInSAR on Sentinel-1 images to detect North Korea's nuclear test site.
 
-{{< icon name="download" pack="fas" >}} **Download my** {{< staticref "media/cv_recent.pdf" "newtab" >}}CV{{< /staticref >}}.
+I will be starting my PhD studies at [UC Berkeley](https://ced.berkeley.edu/academics/landscape-architecture-environmental-planning/) in the Dept. of Landscape Architecture and Environmental Planning under the supervision of Professor [John Radke](https://ced.berkeley.edu/ced/faculty-staff/john-radke) and Professor [Marta Gonzalez](https://ced.berkeley.edu/ced/faculty-staff/marta-gonzalez).
 
+{{< icon name="download" pack="fas" >}} **Download my** {{< staticref "media/cv_recent.pdf" "newtab" >}}CV{{< /staticref >}}.
