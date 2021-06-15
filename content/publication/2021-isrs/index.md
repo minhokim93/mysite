@@ -20,7 +20,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *2021 International Symposium of Remote Sensing (ISRS)*
-publication_short: 2021 International Symposium of Remote Sensing (ISRS) (Online)
+publication_short: 2021 International Symposium of Remote Sensing (ISRS) (Online) <span style="color:red;font-style:italic;font-weight:bold;">(Best Paper)</span>
 
 abstract: Remote sensing is crucial for mapping and developing geospatial information of inaccessible areas. In particular, supervised classification or semantic segmentation of very high resolution (VHR) satellite images are used to extract key features such as buildings, roads, vegetation, and water bodies, but these methods are limited by the need for ground truth data, which is physically unobtainable for remotely located areas. To address this limitation, OpenStreetMap (OSM) data can provide ground truth labels that can be modified for use in VHR satellite images. In this study, Geoeye-1 VHR satellite imagery and refined OSM labels were acquired in urban regions situated in Pyeongyang, North Korea and are integrated into a feature pyramid network-based segmentation model with a pre-trained EfficientNet-B1 backbone. Building and road extraction yielded an F1-score of 0.8806 and 0.9580, respectively. Building and road segmentation results are combined with vegetation and waterbody features from spectral index thresholding to map four fundamental spatial data that are crucial for the development and updating of geospatial information in inaccessible urban areas.
 
