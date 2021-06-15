@@ -1,5 +1,5 @@
 ---
-title: "Developing High Quality Training Samples for Deep Learning Based Local Climate Classification in Korea"
+title: "Mapping Inaccessible Areas Using Deep Learning based Semantic Segmentation of VHR Satellite Images with OpenStreetMap Data"
 authors:
 - admin
 - Taehong Kwak
