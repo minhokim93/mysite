@@ -27,7 +27,7 @@ experience:
     company_url: 'https://ioer.snu.ac.kr/'
     location: Seoul, South Korea
     date_start: '2021-03-01'
-    date_end: ''
+    date_end: '2021-07-31'
     description: |2-
         * Research assistant at SPINS Lab working on multiple research projects :
           * Mapping Basic Spatial Information in North Korea Using Very High Resolution Satellite Images (*The Institute for Peace and Unification Studies*)
@@ -39,7 +39,7 @@ experience:
     company_url: 'spins.snu.ac.kr'
     location: Seoul, South Korea
     date_start: '2020-03-01'
-    date_end: ''
+    date_end: '2021-07-31'
     description: |2-   
         * Graduate courses: Satellite Image Interpretation, Advanced Remote Sensing (KOMPSAT VHR imagery), Advanced Surveying
         * Undergraduate courses: Leadership for Civil Engineers, Spatial Informatics and Systems, Remote Sensing

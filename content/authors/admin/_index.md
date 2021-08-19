@@ -6,12 +6,12 @@ title: Minho Kim
 superuser: true
 
 # Role/position/tagline
-role: Graduate Researcher
+role: PhD Student
 
 ## Organizations/Affiliations to show in About widget
 organizations:
-- name: Institute of Engineering Research at Seoul National University
-  url: https://ioer.snu.ac.kr/
+- name: UC Berkeley
+  url: https://www.berkeley.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I combine satellite images and geospatial data in AI-empowered models for sustainable development and smart city applications.
@@ -67,11 +67,9 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I'm a **PhD student** in the Dept. of Landscape Architecture and Environmental Planning at [UC Berkeley](https://ced.berkeley.edu/academics/landscape-architecture-environmental-planning/) under the supervision of Professor [John Radke](https://ced.berkeley.edu/ced/faculty-staff/john-radke) and Professor [Marta Gonzalez](https://ced.berkeley.edu/ced/faculty-staff/marta-gonzalez). My major research interests include urban remote sensing, land cover mapping, image fusion, renewable energy forecasting, and deep learning for sustainable development of cities and the environment.
 
-I'm a **graduate researcher** in the [Institute of Engineering Research](https://ioer.snu.ac.kr/) and am currently researching at [SPINS Lab](http://spins.snu.ac.kr/). My major research interests include urban remote sensing, land cover mapping, image fusion, renewable energy forecasting, and deep learning for sustainable development of cities and the environment.
+I received my bachelor’s and master's degree in Civil and Environmental Engineering at [Seoul National University](https://en.snu.ac.kr/index.html), where I was fortunate to be advised by Professor [Yongil Kim](https://www.researchgate.net/profile/Yongil_Kim) and was part of the [SPINS Lab](http://spins.snu.ac.kr/) reserach group. For my master's thesis, I researched local climate zone classification using multispectral satellite images via multi-scale convolutional neural networks. For my bachelor's thesis, I used DInSAR on Sentinel-1 images to detect North Korea's nuclear test site.
 
-I received my bachelor’s and master's degree in Civil and Environmental Engineering at [Seoul National University](https://en.snu.ac.kr/index.html), where I was fortunate to be advised by Professor [Yongil Kim](https://www.researchgate.net/profile/Yongil_Kim). For my master's thesis, I researched local climate zone classification using multispectral satellite images via multi-scale convolutional neural networks. For my bachelor's thesis, I used DInSAR on Sentinel-1 images to detect North Korea's nuclear test site.
-
-I will be starting my PhD studies at [UC Berkeley](https://ced.berkeley.edu/academics/landscape-architecture-environmental-planning/) in the Dept. of Landscape Architecture and Environmental Planning under the supervision of Professor [John Radke](https://ced.berkeley.edu/ced/faculty-staff/john-radke) and Professor [Marta Gonzalez](https://ced.berkeley.edu/ced/faculty-staff/marta-gonzalez).
 
 {{< icon name="download" pack="fas" >}} **Download my** {{< staticref "media/cv_recent.pdf" "newtab" >}}CV{{< /staticref >}}.

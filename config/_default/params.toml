@@ -88,19 +88,19 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
- email = "kimminho93@gmail.com"
+ email = "mhk@berkeley.edu"
 # phone = "888 888 88 88"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "1 Gwanak-gu, Gwanak-ro", city = "Seoul", region = "Seoul", postcode = "08826", country = "South Korea", country_code = "KR"}
+address = {street = "401a Wurster Hall,", city = "Berkeley", region = "California", postcode = "94720", country = "United States", country_code = "us"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.456733", longitude = "126.951915"}
+coordinates = {latitude = "37.870736697665045, -122.25488295503092", longitude = "-122.25488295503092"}
 
 # Directions for visitors to locate you.
-directions = "Rm. 318, Bldg. 35"
+# directions = "401a"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
