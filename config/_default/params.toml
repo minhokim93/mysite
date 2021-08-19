@@ -97,7 +97,7 @@ address = {street = "401a Wurster Hall,", city = "Berkeley", region = "Californi
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.870736697665045, -122.25488295503092", longitude = "-122.25488295503092"}
+coordinates = {latitude = "37.870736697665045", longitude = "-122.25488295503092"}
 
 # Directions for visitors to locate you.
 # directions = "401a"
