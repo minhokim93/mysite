@@ -4,10 +4,10 @@ weight: 30
 ---
 
 **1. Urban Remote Sensing**
-* [Conference] Mapping Inaccessible Regions Using Very High Resolution Satellite Images and OpenStreetMap (*Accepted*)
+* [Conference] Local climate zone classification using a multi-scale, multi-level attention network (*Accepted at ISPRS J*)
 
-**2. Sustainable Development**
-* [Paper] Local climate zone mapping using multi-scale convolutional neural networks with convolutional based attention modules (*Under Revision*)
+**2. Sustainable Development** 
+* [Research] Multi-Scale Analysis for Improved Risk Assessment of Wildfires Facilitated by Data and Computation (*Ongoing*)
 
 **3. Machine Learning**
 * [Research] Mapping Floodwater from Sentinel-1C Imagery Using Deep Learning (*In Preparation*)
