@@ -1,5 +1,5 @@
 ---
-title: "Mapping Inaccessible Areas Using Deep Learning based Semantic Segmentation of VHR Satellite Images with OpenStreetMap Data"
+title: "Local climate zone classification using a multi-scale, multi-level attention network"
 authors:
 - admin
 - Doyoung Jeong
@@ -30,7 +30,8 @@ featured: false
 links:
 - name: Link
   url: https://www.sciencedirect.com/science/article/pii/S0924271621002537
-  github: https://github.com/minhokim93/MSMLA
+- name: Github
+  url: https://github.com/minhokim93/MSMLA
 
 image:
   caption: "Local climate zone classification using MSMLSA"
