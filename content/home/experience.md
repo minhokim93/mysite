@@ -56,7 +56,7 @@ experience:
     date_end: '2021-02-26'
     description: |2-
         * Wildfire damage assessment using multispectral satellite and Planetscope images [Publication Link](http://koreascience.or.kr/article/JAKO201925258774737.page)
-        * Solar power forecasting using geostationary satellite images and meteorological data [Publication1 Link](https://www.mdpi.com/2072-4292/12/15/2357) [Publication2 Link](https://ieeexplore.ieee.org/document/8994616) [Publication3 Link](https://a-a-r-s.org/proceeding/ACRS2019/ThP-66.pdf)
+        * Solar power forecasting using geostationary satellite images and meteorological data [Publication1 Link](https://www.mdpi.com/2072-4292/12/15/2357)
         * Spatiotemporal fusion of multispectral and thermal satellite images [Publication Link](https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/V-3-2020/247/2020/)
         * Development of high-quality environmental data using satellite images via deep learning algorithms
   - title: Ammunition Inspector
