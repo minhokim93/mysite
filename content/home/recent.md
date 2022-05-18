@@ -10,4 +10,4 @@ weight: 30
 * [Research] Multi-Scale Analysis for Improved Risk Assessment of Wildfires Facilitated by Data and Computation (*Ongoing*)
 
 **3. Machine Learning**
-* [Research] Wildfire spread modeling using machine learning and reinforcement learning
+* [Research] Wildfire spread modeling using machine learning and reinforcement learning 
