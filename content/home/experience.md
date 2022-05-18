@@ -45,7 +45,7 @@ experience:
     company_url: 'spins.snu.ac.kr'
     location: Seoul, South Korea
     date_start: '2021-01-01'
-    date_end: '2021-08-01'
+    date_end: '2021-07-31'
     description: |2-
         * Lab manager at SPINS Lab
   - title: Research Assistant
