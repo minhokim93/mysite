@@ -10,4 +10,4 @@ weight: 30
 * [Research] Multi-Scale Analysis for Improved Risk Assessment of Wildfires Facilitated by Data and Computation (*Ongoing*)
 
 **3. Machine Learning**
-* [Research] Mapping Floodwater from Sentinel-1C Imagery Using Deep Learning (*In Preparation*)
+* [Research] Wildfire spread modeling using machine learning and reinforcement learning

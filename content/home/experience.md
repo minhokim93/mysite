@@ -22,6 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Graduate Student Researcher
+    company: University of California, Berkeley
+    location: Berkeley, California
+    date_start: '2022-01-01'
+    date_end: '2022-05-13'
+    description: |2-   
+        * Project: Multi-Scale Analysis for Improved Risk Assessment of Wildfires Facilitated by Data and Computation. (Funded by C3AI)
+  - title: Graduate Student Instructor
+    company: University of California, Berkeley
+    location: Berkeley, California
+    date_start: '2021-08-25'
+    date_end: '2021-12-17'
+    description: |2-   
+        * GEOG/LDARCH 188 Geographic Information Systems
   - title: Graduate Researcher
     company: Institute of Engineering Research
     company_url: 'https://ioer.snu.ac.kr/'
