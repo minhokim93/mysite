@@ -39,7 +39,7 @@ experience:
         * Research assistant at SPINS Lab working on multiple research projects :
           * Mapping Basic Spatial Information in North Korea Using Very High Resolution Satellite Images (*The Institute for Peace and Unification Studies*) [Publication Link](https://www.researchgate.net/profile/Minho-Kim-23/publication/354176367_Mapping_Inaccessible_Areas_Using_Deep_Learning_Based_Semantic_Segmentation_of_VHR_Satellite_Images_with_OpenStreetMap_Data/links/6129b344c69a4e48795fffcf/Mapping-Inaccessible-Areas-Using-Deep-Learning-Based-Semantic-Segmentation-of-VHR-Satellite-Images-with-OpenStreetMap-Data.pdf)
           * Detection and Monitoring of Natural Disasters Using Multi-Modal and Multi-Sensor Remotely-Sensed Imagery (*Ministry of Interior & Safety*)
-          * Development of an End-to-End Deep Learning based Technique to Generate Very High Resolution Environmental Data (*National Research Foundation*) [Publication1 Link](https://www.sciencedirect.com/science/article/pii/S0924271621002537?via%3Dihub) [Publication2 Link](https://ai4earthscience.github.io/neurips-2020-workshop/papers/ai4earth_neurips_2020_27.pdf)
+          * Development of an End-to-End Deep Learning based Technique to Generate Very High Resolution Environmental Data (*National Research Foundation*) [Publication Link](https://www.sciencedirect.com/science/article/pii/S0924271621002537?via%3Dihub)
   - title: Lab Manager
     company: Seoul National University (SPINS-RS Lab)
     company_url: 'spins.snu.ac.kr'
@@ -58,7 +58,7 @@ experience:
         * Wildfire damage assessment using multispectral satellite and Planetscope images [Publication Link](http://koreascience.or.kr/article/JAKO201925258774737.page)
         * Solar power forecasting using geostationary satellite images and meteorological data [Publication1 Link](https://www.mdpi.com/2072-4292/12/15/2357)
         * Spatiotemporal fusion of multispectral and thermal satellite images [Publication Link](https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/V-3-2020/247/2020/)
-        * Development of high-quality environmental data using satellite images via deep learning algorithms
+        * Development of high-quality environmental data using satellite images via deep learning algorithms [Publication Link](https://ai4earthscience.github.io/neurips-2020-workshop/papers/ai4earth_neurips_2020_27.pdf))
   - title: Ammunition Inspector
     company: Republic of Korea Army
     location: Pocheon, South Korea
