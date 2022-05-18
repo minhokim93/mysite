@@ -29,13 +29,6 @@ experience:
     date_end: '2022-05-13'
     description: |2-   
         * Project: Multi-Scale Analysis for Improved Risk Assessment of Wildfires Facilitated by Data and Computation. (Funded by C3AI)
-  - title: Graduate Student Instructor
-    company: University of California, Berkeley
-    location: Berkeley, California
-    date_start: '2021-08-25'
-    date_end: '2021-12-17'
-    description: |2-   
-        * GEOG/LDARCH 188 Geographic Information Systems
   - title: Graduate Researcher
     company: Institute of Engineering Research
     company_url: 'https://ioer.snu.ac.kr/'
@@ -48,15 +41,6 @@ experience:
           * Detection and Monitoring of Natural Disasters Using Multi-Modal and Multi-Sensor Remotely-Sensed Imagery (*Ministry of Interior & Safety*)
           * Development of an End-to-End Deep Learning based Technique to Generate Very High Resolution Environmental Data (*National Research Foundation*)
         * Lab manager at SPINS Lab
-  - title: Teaching Assistant
-    company: Seoul National University (SPINS-RS Lab)
-    company_url: 'spins.snu.ac.kr'
-    location: Seoul, South Korea
-    date_start: '2020-03-01'
-    date_end: '2021-07-31'
-    description: |2-   
-        * Graduate courses: Satellite Image Interpretation, Advanced Remote Sensing (KOMPSAT VHR imagery), Advanced Surveying
-        * Undergraduate courses: Leadership for Civil Engineers, Spatial Informatics and Systems, Remote Sensing
   - title: Research Assistant
     company: Seoul National University (SPINS-RS Lab)
     company_url: 'spins.snu.ac.kr'
