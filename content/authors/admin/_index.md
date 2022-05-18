@@ -69,10 +69,10 @@ highlight_name: true
 ---
 I'm a **PhD student** in the Dept. of Landscape Architecture and Environmental Planning at [UC Berkeley](https://ced.berkeley.edu/academics/landscape-architecture-environmental-planning/) under the supervision of Professor [John Radke](https://ced.berkeley.edu/ced/faculty-staff/john-radke) and Professor [Marta Gonzalez](https://ced.berkeley.edu/ced/faculty-staff/marta-gonzalez). My major research interests include urban remote sensing, land cover mapping, image fusion, renewable energy forecasting, and deep learning for sustainable development of cities and the environment.
 
-Currently I am reseraching: 
+Currently I am researching: 
 
-(1) Data-driven wildfire spread simulation models with machine learning
-(2) Classification of wildfire risk in the landscape using high resolution remotely-sensed images and LiDAR data
+- Data-driven wildfire spread simulation models with machine learning
+- Classification of wildfire risk in the landscape using high resolution remotely-sensed images and LiDAR data
 
 I received my bachelor’s and master's degree in Civil and Environmental Engineering at [Seoul National University](https://en.snu.ac.kr/index.html), where I was fortunate to be advised by Professor [Yongil Kim](https://www.researchgate.net/profile/Yongil_Kim) and was part of the [SPINS Lab](http://spins.snu.ac.kr/) reserach group. For my master's thesis, I researched local climate zone classification using multispectral satellite images via multi-scale convolutional neural networks. For my bachelor's thesis, I used DInSAR on Sentinel-1 images to detect North Korea's nuclear test site.
 
