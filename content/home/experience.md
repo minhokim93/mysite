@@ -28,7 +28,7 @@ experience:
     date_start: '2022-01-01'
     date_end: '2022-05-13'
     description: |2-   
-        * Project: Multi-Scale Analysis for Improved Risk Assessment of Wildfires Facilitated by Data and Computation. (Funded by C3AI)
+        * Project: Multi-Scale Analysis for Improved Risk Assessment of Wildfires Facilitated by Data and Computation. (*C3AI*) [Link](https://c3.ai/dti/research/2021-projects/)
   - title: Graduate Researcher
     company: Institute of Engineering Research
     company_url: 'https://ioer.snu.ac.kr/'
@@ -37,9 +37,16 @@ experience:
     date_end: '2021-07-31'
     description: |2-
         * Research assistant at SPINS Lab working on multiple research projects :
-          * Mapping Basic Spatial Information in North Korea Using Very High Resolution Satellite Images (*The Institute for Peace and Unification Studies*)
+          * Mapping Basic Spatial Information in North Korea Using Very High Resolution Satellite Images (*The Institute for Peace and Unification Studies*) [Publication Link](https://www.researchgate.net/profile/Minho-Kim-23/publication/354176367_Mapping_Inaccessible_Areas_Using_Deep_Learning_Based_Semantic_Segmentation_of_VHR_Satellite_Images_with_OpenStreetMap_Data/links/6129b344c69a4e48795fffcf/Mapping-Inaccessible-Areas-Using-Deep-Learning-Based-Semantic-Segmentation-of-VHR-Satellite-Images-with-OpenStreetMap-Data.pdf)
           * Detection and Monitoring of Natural Disasters Using Multi-Modal and Multi-Sensor Remotely-Sensed Imagery (*Ministry of Interior & Safety*)
-          * Development of an End-to-End Deep Learning based Technique to Generate Very High Resolution Environmental Data (*National Research Foundation*)
+          * Development of an End-to-End Deep Learning based Technique to Generate Very High Resolution Environmental Data (*National Research Foundation*) [Publication1 Link](https://www.sciencedirect.com/science/article/pii/S0924271621002537?via%3Dihub) [Publication2 Link](https://ai4earthscience.github.io/neurips-2020-workshop/papers/ai4earth_neurips_2020_27.pdf)
+  - title: Lab Manager
+    company: Seoul National University (SPINS-RS Lab)
+    company_url: 'spins.snu.ac.kr'
+    location: Seoul, South Korea
+    date_start: '2021-01-01'
+    date_end: '2021-08-01'
+    description: |2-
         * Lab manager at SPINS Lab
   - title: Research Assistant
     company: Seoul National University (SPINS-RS Lab)
@@ -48,9 +55,9 @@ experience:
     date_start: '2019-03-01'
     date_end: '2021-02-26'
     description: |2-
-        * Wildfire damage assessment using multispectral satellite and Planetscope images
-        * Solar power forecasting using geostationary satellite images and meteorological data
-        * Spatiotemporal fusion of multispectral and thermal satellite images
+        * Wildfire damage assessment using multispectral satellite and Planetscope images [Publication Link](http://koreascience.or.kr/article/JAKO201925258774737.page)
+        * Solar power forecasting using geostationary satellite images and meteorological data [Publication1 Link](https://www.mdpi.com/2072-4292/12/15/2357) [Publication2 Link](https://ieeexplore.ieee.org/document/8994616) [Publication3 Link](https://a-a-r-s.org/proceeding/ACRS2019/ThP-66.pdf)
+        * Spatiotemporal fusion of multispectral and thermal satellite images [Publication Link](https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/V-3-2020/247/2020/)
         * Development of high-quality environmental data using satellite images via deep learning algorithms
   - title: Ammunition Inspector
     company: Republic of Korea Army
@@ -60,7 +67,7 @@ experience:
     description: |2-
         * Recorded ammunition transactions and composed ammunition inventory reports using Excel
         * After working hours, self-studied satellite and radar remote sensing
-        * Contributed to writeup on pan-sharpening image fusion research using Worldview images
+        * Contributed to writeup on pan-sharpening image fusion research using Worldview images [Publication Link](https://ieeexplore.ieee.org/abstract/document/8091115)
   - title: Research Assistant (Undergraduate Intern)
     company: Seoul National University (SPINS-RS Lab)
     company_url: 'spins.snu.ac.kr'
