@@ -26,8 +26,8 @@ experience:
     company: University of California, Berkeley
     location: Berkeley, California
     date_start: '2023-05-01'
-    date_end: 'Present'
-    description: |2-   
+    date_end: ''
+    description: |2-
         * Project: Mapping post-fire soil burn severity and risk to critical transportation infrastructure (Funded by Caltrans)
   - title: Graduate Student Researcher
     company: University of California, Berkeley
