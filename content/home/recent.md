@@ -4,7 +4,7 @@ weight: 30
 ---
 
 **1. Urban Remote Sensing and Sustainable Development**
-* [Research] Deforestation and road mapping using high resolution satellite images
+* [Research] Deforestation and road mapping using high resolution satellite images (*Accepted at IGARSS 2023 as co-author)
 * [Research] From local to micro: Exploratory data analysis on urban forests and microclimates in Portland, Oregon, USA
 
 **2. Natural Hazards** 
@@ -13,4 +13,4 @@ weight: 30
 
 **3. GeoAI and Machine Learning**
 * [Paper] Towards global open-source fire spread modeling using machine learning (*In Preparation*)
-* [Paper] Semantic segmentaiton of enhanced lifeform maps using high resolution satellite images (*IGARSS 2023)
+* [Paper] Semantic segmentaiton of enhanced lifeform maps using high resolution satellite images (*Oral Presentation at IGARSS 2023)
