@@ -4,8 +4,8 @@ weight: 30
 ---
 
 **1. Urban Remote Sensing and Sustainable Development**
-* [Research] Deforestation and road mapping using high resolution satellite images (*Accepted at IGARSS 2023 as co-author)
-* [Research] From local to micro: Exploratory data analysis on urban forests and microclimates in Portland, Oregon, USA
+* [Research] Deforestation and road mapping using high resolution satellite images 
+* [Research] From local to micro: Exploratory data analysis on urban forests and microclimates in Portland, Oregon, USA (*Accepted at IGARSS 2023 as co-author)
 
 **2. Natural Hazards** 
 * [Project] Multi-Scale Analysis for Improved Risk Assessment of Wildfires Facilitated by Data and Computation (*Ongoing*)
