@@ -6,7 +6,7 @@ title: Minho Kim
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: PhD Candidate
 
 ## Organizations/Affiliations to show in About widget
 organizations:
@@ -14,19 +14,19 @@ organizations:
   url: https://www.berkeley.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I combine satellite images and geospatial data in using data-driven, deep learning models.
+bio: Data-driven, machine learning-based environmental modeling using geospatial data.
 
 # Interests to show in About widget
 interests:
-- Urban Remote Sensing
-- Wildland Urban Interface
-- Natural Disasters
-- Sustainable Development
+- Environmental modeling (Wildfire, flood, debris flow)
+- GeoAI (Remote Sensing, GIScience)
+- Complex systems (Network science, risk & resilience)
+- Machine learning 
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Landscape Architecture & Environmental Planning
+  - course: PhD in Environmental Planning
     institution : 2021~, UC Berkeley
     year:
   - course: MS in Civil & Environmental Engineering
