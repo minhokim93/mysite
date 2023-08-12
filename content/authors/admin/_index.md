@@ -18,9 +18,10 @@ bio: Data-driven, machine learning-based environmental modeling using geospatial
 
 # Interests to show in About widget
 interests:
-- Environmental modeling (Wildfire, flood, debris flow)
-- GeoAI (Remote Sensing, GIScience)
-- Complex systems (Network science, risk & resilience)
+- Environmental Modeling
+- GeoAI (Remote Sensing & GIScience)
+- Risk & Resilience of Complex Systems
+- Network Science
 - Machine learning 
 
 # Education to show in About widget
@@ -74,7 +75,7 @@ My ongoing research works include:
 - Data-driven fire spread models using machine learning (Funded by C3.AI)
 - Burn severity prediction and post-fire debris flow risk on critical infrastructure (Funded by Caltrans)
 
-My previous research works sinclude urban remote sensing, land cover mapping, image fusion, renewable energy forecasting, and deep learning for sustainable development of cities and the environment. I received my bachelor’s and master's degree in Civil and Environmental Engineering at [Seoul National University](https://en.snu.ac.kr/index.html), where I was fortunate to be advised by Professor [Yongil Kim](https://www.researchgate.net/profile/Yongil_Kim) and was part of the [SPINS Lab](http://spins.snu.ac.kr/) reserach group. For my master's thesis, I researched local climate zone classification using multispectral satellite images via multi-scale convolutional neural networks. For my bachelor's thesis, I used DInSAR on Sentinel-1 images to detect North Korea's nuclear test site.
+My previous research works include urban remote sensing, land cover mapping, image fusion, renewable energy forecasting, and deep learning for sustainable development of cities and the environment. I received my bachelor’s and master's degree in Civil and Environmental Engineering at [Seoul National University](https://en.snu.ac.kr/index.html), where I was fortunate to be advised by Professor [Yongil Kim](https://www.researchgate.net/profile/Yongil_Kim) and was part of the [SPINS Lab](http://spins.snu.ac.kr/) reserach group. For my master's thesis, I researched local climate zone classification using multispectral satellite images via multi-scale convolutional neural networks. For my bachelor's thesis, I used DInSAR on Sentinel-1 images to detect North Korea's nuclear test site.
 
 
 {{< icon name="download" pack="fas" >}} **Download my** {{< staticref "media/cv_recent.pdf" "newtab" >}}CV{{< /staticref >}}.
