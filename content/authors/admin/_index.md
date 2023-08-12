@@ -67,7 +67,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I'm a **PhD student** in the Dept. of Landscape Architecture and Environmental Planning at [UC Berkeley](https://ced.berkeley.edu/academics/landscape-architecture-environmental-planning/) under the supervision of Professor [John Radke](https://ced.berkeley.edu/ced/faculty-staff/john-radke) and Professor [Marta Gonzalez](https://ced.berkeley.edu/ced/faculty-staff/marta-gonzalez). Currently, I am interested in using GeoAI (computer vision, deep learning, network data science) to model natural hazards and predict risk for environmental planning and management. 
+I'm a **PhD candidate** in the Dept. of Landscape Architecture and Environmental Planning at [UC Berkeley](https://ced.berkeley.edu/academics/landscape-architecture-environmental-planning/) under the supervision of Professor [John Radke](https://ced.berkeley.edu/ced/faculty-staff/john-radke) and Professor [Marta Gonzalez](https://ced.berkeley.edu/ced/faculty-staff/marta-gonzalez). Currently, I am interested in using GeoAI (computer vision, deep learning, network data science) to model natural hazards and predict risk for environmental planning and management. 
 
 My ongoing research works include:
 
