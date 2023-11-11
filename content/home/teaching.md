@@ -26,7 +26,7 @@ experience:
     company: University of California, Berkeley
     location: Berkeley, California
     date_start: '2024-01-09'
-    date_end: '-'
+    date_end: ''
     description: |2-   
         * LDARCH/ESPM 289 Applied Remote Sensing
   - title: Lead Instructor
