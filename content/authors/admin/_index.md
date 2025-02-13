@@ -14,7 +14,7 @@ organizations:
   url: https://www.berkeley.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Data-driven, machine learning-based environmental modeling using geospatial data.
+bio: Data-driven planning using environmental modeling using geospatial data.
 
 # Interests to show in About widget
 interests:
